@@ -1,0 +1,3 @@
+(library
+ (name arc082_a)
+ (libraries str))
