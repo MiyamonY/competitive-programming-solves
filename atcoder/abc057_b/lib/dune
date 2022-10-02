@@ -1,0 +1,3 @@
+(library
+ (name abc057_b)
+ (libraries str))
