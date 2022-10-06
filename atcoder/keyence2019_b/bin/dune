@@ -1,0 +1,4 @@
+(executable
+ (public_name keyence2019_b)
+ (name main)
+ (libraries keyence2019_b str))

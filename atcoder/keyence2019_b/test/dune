@@ -1,0 +1,3 @@
+(test
+ (name keyence2019_b)
+ (libraries str))
