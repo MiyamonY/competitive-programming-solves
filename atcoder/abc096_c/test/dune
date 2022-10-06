@@ -1,0 +1,3 @@
+(test
+ (name abc096_c)
+ (libraries str))
