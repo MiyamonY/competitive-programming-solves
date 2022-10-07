@@ -1,0 +1,3 @@
+(test
+ (name arc073_a)
+ (libraries str))

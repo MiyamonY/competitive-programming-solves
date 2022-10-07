@@ -1,0 +1,4 @@
+(executable
+ (public_name arc073_a)
+ (name main)
+ (libraries arc073_a str))
