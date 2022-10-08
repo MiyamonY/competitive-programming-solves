@@ -1,0 +1,4 @@
+(executable
+ (public_name abc088_c)
+ (name main)
+ (libraries abc088_c str))
