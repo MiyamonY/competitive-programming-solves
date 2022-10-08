@@ -1,0 +1,3 @@
+(test
+ (name diverta2019_b)
+ (libraries str))
